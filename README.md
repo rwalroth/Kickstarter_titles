@@ -4,7 +4,8 @@ The aim of this project is to look at the Kickstarter database in kaggle, found 
 
 https://www.kaggle.com/kemical/kickstarter-projects
 
-with the goal of identifying patterns in titles and whether or not these can be used to 
+(data not included in repo)
+The goal is identifying patterns in titles and whether or not these can be used to 
 predict success of a project or guess at the category of the project. 
 
 The methodology will rely on using bag of words vectorizing of the project titles and one
@@ -18,3 +19,5 @@ numpy
 pandas
 scikit-learn
 standard python library
+
+Published under MIT License, copyright 2019 by Richard Walroth
